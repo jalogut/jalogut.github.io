@@ -6,3 +6,43 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+.masthead {
+	background-color: orange;
+}
+
+.greedy-nav {
+	background: transparent;
+}
+
+.greedy-nav a,
+.greedy-nav a:hover {
+	color: white;
+}
+
+.greedy-nav .visible-links a:before {
+	backgroung: white;
+}
+
+.greedy-nav__toggle {
+	background-color: transparent;
+}
+
+.greedy-nav .hidden-links {
+	background: orange;
+} 
+
+.greedy-nav .hidden-links:after {
+	border-color: orange;
+}
+
+.greedy-nav .hidden-links a:hover {
+	color: white;
+	background: orange;
+	text-decorator: underline;
+}
+
+.pagination li a.current, .pagination li a.current.disabled {
+	background: orange;
+}
+}

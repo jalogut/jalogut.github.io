@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Magento 2 Specialist | 3x certified | Trainer and consultant"
+title                    : "Magento 2 dev & trainer"
 title_separator          : "-"
 name                     : "Juan Alonso"
 description              : "Personal site to blog about Magento an other stuff"
-url                      : "https://mmistakes.github.io"
+url                      : "https://jalogut.github.io"
 baseurl                  : # "/blog"
 repository               : "jalogut/jalogut.github.io"
 teaser                   : #path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -86,7 +86,9 @@ og_image                 : # Open Graph/Twitter default site image
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
-  links: []
+  links: 
+    - "https://twitter.com/jalogut"
+    - "https://www.linkedin.com/in/juan-alonso-13915823/"
 
 # Analytics
 analytics:
@@ -99,7 +101,7 @@ analytics:
 author:
   name             : "Juan Alonso"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "Magento 2 Specialist | 3x certified | Trainer and consultant"
+  bio              : "Magento 2 Specialist | 3x Certified Developer | Trainer and Consultant"
   location         : # "Bern Switzerland"
   email            : "juan.jalogut@gmail.com"
   uri              : 

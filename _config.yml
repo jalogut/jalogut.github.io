@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -21,7 +21,7 @@ title_separator          : "-"
 name                     : "Juan Alonso"
 description              : "Personal site to blog about Magento an other stuff"
 url                      : "https://mmistakes.github.io"
-baseurl                  : "/blog"
+baseurl                  : # "/blog"
 repository               : "jalogut/jalogut.github.io"
 teaser                   : #path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)

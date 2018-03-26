@@ -1,13 +1,11 @@
 # main links
 main:
   - title: "Blog"
-    url: /docs/_posts/
+    url: /year-archive/
   - title: "Trainings"
-    url: /docs/_pages/lorem-ipsum
+    url: /trainings/
   - title: "About me"   
-    url: /docs/_pages/about/
-  - title: "About"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
+    url: /about-me/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"

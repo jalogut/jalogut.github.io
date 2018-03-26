@@ -100,7 +100,7 @@ author:
   name             : "Juan Alonso"
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : "Magento 2 Specialist | 3x certified | Trainer and consultant"
-  location         : "Bern Switzerland"
+  location         : # "Bern Switzerland"
   email            : "juan.jalogut@gmail.com"
   uri              : 
   home             : # null (default), "absolute or relative url to link to author home"
@@ -110,7 +110,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/jalogut"
+  github           : "jalogut"
   gitlab           :
   google_plus      :
   keybase          :
@@ -119,7 +119,7 @@ author:
   linkedin         : "juan-alonso-13915823"
   pinterest        :
   soundcloud       :
-  stackoverflow    : "2923068/jalogut"
+  stackoverflow    : # "2923068/jalogut"
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
   twitter          : "https://twitter.com/Jalogut"

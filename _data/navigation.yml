@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Blog"
+    url: /
   - title: "Trainings"
     url: /trainings/
   - title: "About me"   
